@@ -37,8 +37,3 @@ I’m passionate about creating **responsive, cross-platform mobile and web appl
 ## ✨ Let’s Connect
 💼 Open to frontend developer opportunities  
 🌐 [LinkedIn](https://www.linkedin.com/in/mayur-kamble-89b62924b/) | 📧 makamble8928@gmail.com
-
----
-
-## 📊 GitHub Stats
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
